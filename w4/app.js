@@ -21,7 +21,7 @@ const handleClearForm = function () {
     console.log('boo');
 }
 
-
+// AI assistance with this part:
 form.addEventListener('submit', function() {
     event.preventDefault();
     heading.style.display = 'block'
